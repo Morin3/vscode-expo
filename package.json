@@ -38,9 +38,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@expo/config-plugins": "^4.1.5",
-    "@expo/plist": "0.0.18",
-    "@expo/prebuild-config": "^4.0.3",
+    "@expo/config-plugins": "^57.0.9",
+    "@expo/plist": "0.8.1",
+    "@expo/prebuild-config": "^57.0.15",
     "@expo/spawn-async": "^1.7.2",
     "@vscode/extension-telemetry": "^0.9.6",
     "debug": "^4.3.5",
@@ -50,7 +50,7 @@
     "picomatch": "^4.0.1"
   },
   "devDependencies": {
-    "@expo/config-plugins": "^4.1.5",
+    "@expo/config-plugins": "^57.0.9",
     "@expo/spawn-async": "^1.7.2",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
